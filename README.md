@@ -56,8 +56,4 @@ Currently pursuing a **Bachelor in Information Technology** and exploring projec
 
 Feel free to **connect, collaborate, or reach out**!
 
----
 
-## 📈 GitHub Stats
-
-![Yubraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YubrajTxx&show_icons=true&theme=tokyonight)
