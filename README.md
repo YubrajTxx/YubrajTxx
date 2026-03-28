@@ -76,13 +76,6 @@ Analytical and detail-oriented professional with a strong foundation in data ana
 
 ---
 
-## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YubrajTxx&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YubrajTxx&layout=compact&hide_border=true)
-
----
 
 ## Education
 **Bachelor of Information Technology (BIT)**  
