@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Data+Science+Enthusiast;Python+SQL+Power+BI&center=false&width=500&height=30)
 
-**Data Analyst | Data Science Enthusiast**
+**Data Analyst | Data Science**
 
 Analytical and detail-oriented professional with a strong foundation in data analysis, statistical methods, and data visualization. Focused on transforming data into actionable insights to support informed decision-making.
 
@@ -59,23 +59,6 @@ Analytical and detail-oriented professional with a strong foundation in data ana
 
 ---
 
-## Professional Strengths
-- Data Cleaning and Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Statistical Analysis  
-- Dashboard Development  
-- Data Visualization and Reporting  
-- Analytical Thinking and Problem Solving  
-
----
-
-## Current Focus
-- Advancing data analysis and visualization techniques  
-- Strengthening SQL and data modeling skills  
-- Expanding knowledge in machine learning fundamentals  
-
----
-
 
 ## Education
 **Bachelor of Information Technology (BIT)**  
@@ -88,9 +71,3 @@ Lincoln University College (NCMT College)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yubraj%20Tamang-blue?logo=linkedin)](https://www.linkedin.com/in/yubraj-tamang)  
 [![Website](https://img.shields.io/badge/Website-Portfolio-black?logo=google-chrome)](https://tamangyubraj.com.np)
 
----
-
-## Additional Information
-- Strong interest in Data Science and analytics  
-- Experience working with real-world datasets  
-- Focused on building practical, data-driven solutions  
