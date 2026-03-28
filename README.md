@@ -1,44 +1,78 @@
 # Yubraj Tamang
 
-## Machine Learning Engineer | Data Science Enthusiast
-
-### About Me  
-I am a Machine Learning Engineer from Nepal with a strong interest in artificial intelligence, data science, and financial technology.  
-Currently pursuing my Bachelor of Information Technology (BIT) at Lincoln University College, NCMT College, I specialize in applying machine learning techniques to solve real world problems. My goal is to bridge the gap between raw data and impactful insights through advanced analytics and intelligent systems.
+Data Analyst with a strong foundation in data science, statistical analysis, and data-driven decision making. Skilled in transforming raw data into meaningful insights using analytical tools and visualization techniques. Currently pursuing a Bachelor of Information Technology (BIT).
 
 ---
 
-### Skills  
-- **Programming & Data:** Python, SQL, Excel, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Machine Learning:** Regression, Classification, EDA, Feature Engineering, Model Development  
-- **Databases:** PostgreSQL, MySQL, Google Sheets  
-- **Tools & Frameworks:** Jupyter Notebook, Git/GitHub, Flask  
-- **Domains of Interest:** FinTech, Banking, Smart Agriculture, Applied AI  
+## Professional Summary
+- Proficient in data analysis, data cleaning, and exploratory data analysis (EDA)
+- Strong understanding of statistics and data interpretation
+- Experience in building dashboards and reports for decision support
+- Familiar with machine learning fundamentals and data modeling
 
 ---
 
-### Currently Exploring  
-- Advanced Machine Learning and Deep Learning  
-- Computer Vision (YOLO, CNNs)  
-- Data Science applications in Finance & Banking  
-- MLOps and scalable ML deployment  
+## Technical Skills
+
+**Programming & Query Languages**
+- Python
+- SQL (MySQL)
+
+**Data Analysis Libraries**
+- Pandas
+- NumPy
+
+**Data Visualization**
+- Matplotlib
+- Seaborn
+- Power BI
+
+**Tools & Platforms**
+- Microsoft Excel
+- Jupyter Notebook
+- Git & GitHub
 
 ---
 
-### Connect with Me  
+## Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yubraj-tamang">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="http://www.tamangyubraj.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="mailto:yt60015@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+### NEPSE Stock Data Analysis
+- Performed data cleaning and analysis on stock market datasets
+- Conducted trend analysis and visualization using Python
+- Tools: Pandas, Matplotlib, SQL
+
+### Smart Krishi Sathi
+- AI and IoT-based agricultural recommendation system
+- Provides crop recommendations based on soil, weather, and location
+- Technologies: Python, Flask, PostgreSQL, Flutter
+
+### Power BI Dashboard Projects
+- Built interactive dashboards for business insights
+- Focused on data visualization and reporting
+- Tools: Power BI, Excel
 
 ---
 
-*"Turning data into solutions, and ideas into impact."*
+## Education
+**Bachelor of Information Technology (BIT)**  
+Lincoln University College (NCMT College)
+
+---
+
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YubrajTxx&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YubrajTxx&layout=compact&hide_border=true)
+
+---
+
+## Contact
+- Email: yt60015@gmail.com
+- LinkedIn: Add your LinkedIn profile link
+
+---
+
+## Additional Information
+- Strong interest in Data Science and FinTech applications
+- Actively working on real-world data projects
+- Continuously improving analytical and technical skills
