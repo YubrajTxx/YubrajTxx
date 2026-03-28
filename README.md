@@ -28,26 +28,6 @@ Currently pursuing a **Bachelor in Information Technology** and exploring projec
 
 ---
 
-## 📂 Featured Projects
-
-### [Smart Khrisi Sathi](https://github.com/YubrajTxx)
-**AI & IoT-powered smart farming assistant**  
-- Features: Crop recommendation, weather forecast, market price integration  
-- Tech: Python, Flask, PostgreSQL, Flutter  
-
-### [Pest Alert via Plant Sound & Soil Vibration](https://github.com/YubrajTxx)
-**IoT & ML project for early pest detection in crops**  
-- Features: Ultrasonic pest sound detection, soil vibration monitoring  
-- Tech: Arduino, Raspberry Pi, Python, EdgeML  
-
-### [Data Analysis Projects](https://github.com/YubrajTxx)
-- EDA, feature engineering, and visualization using Python (Pandas, Matplotlib, Seaborn)  
-- Real-world datasets with insights & reports
-
-> More projects can be found in my [GitHub Repositories](https://github.com/YubrajTxx)
-
----
-
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/yubraj-tamang)  
